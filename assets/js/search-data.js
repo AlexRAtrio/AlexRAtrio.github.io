@@ -369,13 +369,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-i-successfully-defended-my-phd-thesis-regularization-techniques-for-low-resource-machine-translation-grateful-for-the-guidance-support-and-years-of-learning-at-epfl-and-heig-vd",
           title: '🎉 I successfully defended my PhD thesis, “Regularization Techniques for Low-Resource Machine Translation”!...',
+          description: "",
+          section: "News",},{id: "news-i-joined-pi-school-in-rome-as-a-senior-deep-learning-scientist-i-m-leading-eve-an-open-source-llm-for-earth-observation-and-earth-sciences-in-collaboration-with-esa-φ-lab",
+          title: '🚀 I joined Pi School in Rome as a Senior Deep Learning Scientist....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
