@@ -369,7 +369,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-successfully-defended-my-phd-thesis-regularization-techniques-for-low-resource-machine-translation-grateful-for-the-guidance-support-and-years-of-learning-at-epfl-and-heig-vd",
+            },},{id: "news-i-successfully-defended-my-phd-thesis-regularization-techniques-for-low-resource-machine-translation-grateful-for-the-guidance-support-and-years-of-learning-at-epfl-and-heig-vd-and-particularly-my-supervisor-andrei-popescu-belis",
           title: '🎉 I successfully defended my PhD thesis, “Regularization Techniques for Low-Resource Machine Translation”!...',
           description: "",
           section: "News",},{id: "news-i-joined-pi-school-in-rome-as-a-senior-deep-learning-scientist-i-m-working-on-eve-an-open-source-llm-for-earth-observation-and-earth-sciences-in-collaboration-with-esa-φ-lab",
