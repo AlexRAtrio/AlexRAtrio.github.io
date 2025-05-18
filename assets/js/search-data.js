@@ -374,10 +374,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-successfully-defended-my-phd-thesis-regularization-techniques-for-low-resource-machine-translation-grateful-for-the-guidance-support-and-years-of-learning-at-epfl-and-heig-vd",
+            },},{id: "news-i-successfully-defended-my-phd-thesis-regularization-techniques-for-low-resource-machine-translation-grateful-for-the-guidance-support-and-years-of-learning-at-epfl-and-heig-vd",
           title: '🎉 I successfully defended my PhD thesis, “Regularization Techniques for Low-Resource Machine Translation”!...',
           description: "",
           section: "News",},{id: "projects-project-1",
