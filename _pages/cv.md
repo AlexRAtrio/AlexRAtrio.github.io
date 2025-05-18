@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: vitae
 permalink: /assets/pdf/CV.pdf
 nav: true
 ---
