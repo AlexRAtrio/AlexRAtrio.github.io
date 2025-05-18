@@ -1,6 +1,6 @@
 ---
 layout: page
-title: milestones
+title: recent milestones
 permalink: /news/
 ---
 
